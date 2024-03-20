@@ -79,7 +79,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </p>
 
 <p align="center">
-<a href="https://t.me/BRANDRD_BOT"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/salman_op12"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 - <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ sᴀʟᴍᴀɴ](https://github.com/WCGKING) ғᴏʀ [sᴀʟᴍᴀɴ ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/ShreeQueenBot)_</b>
